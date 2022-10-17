@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../../../RESTfulAPI"
+	},
+	{
+		"path": "../../../mensRace"
+	},
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../createAPIs"
+	}
+],
+  "settings": {}
+}

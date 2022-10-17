@@ -1,0 +1,15 @@
+.slider_image{
+   max-height:900px!important;
+   object-fit: cover;
+}
+.service_icon{
+   font-size: 60px;
+   color: royalblue;
+}
+.backgroundColor{
+   color: white;
+   background-color:rgb(103, 155, 155);
+}
+.banner_color{
+   background-color: hsl(208, 100%, 82%);
+}
